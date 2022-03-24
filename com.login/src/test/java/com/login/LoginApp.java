@@ -10,6 +10,7 @@ public class LoginApp
 	public void log()
 	{
 		System.out.println("login done succesfully");
+		System.out.println("logout done succesfully");
 	}
 
 }
